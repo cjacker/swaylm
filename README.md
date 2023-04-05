@@ -51,7 +51,9 @@ A wrapper script is useful to handle all these works.
 
 # Why only sway
 
-I use i3wm for decades and never switch to and use other desktop environment. In practice, trying different DE is a kind of waste of time.
+I use i3wm for decades and never switch to and use other desktop environment. 
+
+In practice, trying different DE is a kind of waste of time.
 
 # Future plans:
 - Accept default username as argument and only requires inputing password to login.
