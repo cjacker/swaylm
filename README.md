@@ -16,7 +16,7 @@ DDLM is forked from [Kenylevinsen's DLM](https://git.sr.ht/~kennylevinsen/dlm).
 - git clone the sources and built it with `cargo build --release`.
 - install `target/release/swaylm` to `/usr/bin`.
 - install `assets/startsway` to `/usr/bin`.
-- create a config file `config.toml` at `/etc/greetd/` as:
+- create or modify config file `config.toml` at `/etc/greetd/` as:
 ```
 [terminal]
 # The VT to run the greeter on. Can be "next", "current" or a number
