@@ -43,7 +43,7 @@ sudo systemctl enable greetd
 sudo systemctl restart greetd
 ```
 
-# Why need startsway wrapper script
+# Why `startsway` wrapper script
 
 You need handle a lot of env vars and settings before starting sway, also need setup dbus daemon properly, etc.
 
@@ -56,4 +56,4 @@ I use i3wm for decades and never switch to and use other desktop environment.
 In practice, trying different DE is a kind of waste of time.
 
 # Future plans:
-- Accept default username as argument and only requires inputing password to login.
+- Accept default username as argument and only requires inputing password to login like [lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter).
